@@ -1,0 +1,7 @@
+mat-nav-list a {
+  border-radius: 8px;
+  margin: 4px 8px;
+}
+mat-nav-list a:hover {
+  background: rgba(233, 69, 96, 0.2);
+}
